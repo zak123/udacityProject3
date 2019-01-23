@@ -1,0 +1,3 @@
+rootProject.name = 'udacityProject3'
+
+include ':app'
